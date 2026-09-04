@@ -1,1 +1,1 @@
-# RestoreWelnessTherapy
+# RestoreWellnessTherapy
